@@ -3,3 +3,9 @@ venv/
 
 #test cache
 .pytest_cache/
+
+#.idea
+.idea/
+
+#scraped data
+extracted_data/
