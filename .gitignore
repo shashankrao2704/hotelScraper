@@ -1,0 +1,5 @@
+# virtual env
+venv/
+
+#test cache
+.pytest_cache/
