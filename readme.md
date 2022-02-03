@@ -1,18 +1,18 @@
-
+[![python version](https://img.shields.io/badge/Python%20version-3.10-blue)](https://www.python.org/downloads/)
 # Hotel info scraper 
 Scrapes local booking.html file to extract relevant information and outputs it as a JSON String.
 
-##Requirements
+## Requirements
 
 `python >= 3.xx+`
 
-##Installation
+## Installation
 
 ```
 pip install -r requirements.txt
 ```
 
-##How to run
+## How to run
 
 ```
 python bookingScraper.py
